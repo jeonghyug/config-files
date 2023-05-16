@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: root
+    url: jdbc:postgresql://localhost:5432/ostock_dev
+    password: root
+example:
+  property: I AM BAD DEV
